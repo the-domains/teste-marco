@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Teste Marco]]></title>
+        <description><![CDATA[Teste Marco]]></description>
+        <link>https://thegrid.ai/teste-marco/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 13 Oct 2015 16:59:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teste-marco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/teste-marco/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">d016a388-5c7c-4c15-af7e-67ad8eb28d6b</guid>
+            <pubDate>Tue, 13 Oct 2015 16:58:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
